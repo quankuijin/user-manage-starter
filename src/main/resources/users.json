@@ -1,0 +1,11 @@
+[ {
+  "id" : 1,
+  "name" : "张三",
+  "gender" : "男",
+  "birthDate" : null,
+  "code" : "U001",
+  "address" : "",
+  "phone" : "13800138000",
+  "email" : "zhangsan@example.com",
+  "remark" : ""
+} ]
